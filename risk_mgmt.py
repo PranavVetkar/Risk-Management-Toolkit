@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 class RiskManager:
     def __init__(self, stop_loss_pct=0.02):
